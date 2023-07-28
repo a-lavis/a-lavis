@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+-  [📄 LinkedIn](https://www.linkedin.com/in/aidanlavis/)
+
 <details>
 <summary>🎵</summary>
 
